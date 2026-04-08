@@ -39,7 +39,7 @@ Mỗi phần đều áp dụng:
 ### 1. Clone project
 
 ```bash
-git clone -b bai3_1 https://github.com/NguyenDung04/laravel-3155-nguyen-tri-dung.git bai3_1
+git clone -b bai3_1 https://github.com/20222877-lab/laravel_20222877.git bai3_1
 ```
 
 ```bash
