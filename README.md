@@ -41,7 +41,7 @@ Mỗi phần đều áp dụng:
 ### 1. Clone project
 
 ```bash
-git clone -b bai3_2 https://github.com/NguyenDung04/laravel-3155-nguyen-tri-dung.git bai3_2
+git clone -b bai3_2 https://github.com/20222877-lab/laravel_20222877.git bai3_2
 ```
 
 ```bash
@@ -330,8 +330,8 @@ SELECT * FROM products WHERE price > 100;
 
 ## 👨‍💻 Tác giả
 
-- Họ và tên: Nguyễn Trí Dũng
-- Mã sinh viên: 20223155
+- Họ và tên: Đổng Trung Đức
+- Mã sinh viên: 20222877
 
 ---
 
